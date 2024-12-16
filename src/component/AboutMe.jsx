@@ -53,10 +53,7 @@ export default function AboutMe() {
                 performance of each quarter.
               </li>
               <li>Solving problem at 0KM or after market complaint</li>
-              <li>
-                Cooperate with SQE China team to find solution about car problem
-                and new project support.
-              </li>
+              <li>Inspected supplier feedback evaluation before impovement.</li>
             </ul>
           </div>
           <div>

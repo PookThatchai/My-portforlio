@@ -15,7 +15,7 @@ export default function HomePage() {
       <div className="flex justify-center mt-20">
         <img
           className="w-1/3"
-          src="src/picture/Hero.jpg"
+          src="https://res.cloudinary.com/dpqhebvit/image/upload/v1734334614/miycbcvctzxcv0nvmate.jpg"
           alt="coding computer"
         />
       </div>
