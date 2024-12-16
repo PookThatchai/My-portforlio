@@ -6,7 +6,7 @@ export default function HomePage() {
       <div className="flex flex-col justify-center font-kode-mono animate-fade-out whitespace-nowrap">
         <div className="flex flex-col justify-center items-center mb-5">
           <div className="text-5xl mb-5 mt-10">Thatchai Taikla</div>
-          <div className="text-4xl">
+          <div className="text-2xl">
             I'm a coding passionate and I'm willing to do everything to
             <span className="font-extrabold"> ACHIEVE THE GOAL.</span>
           </div>
