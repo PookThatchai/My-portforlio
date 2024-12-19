@@ -30,7 +30,7 @@ export default function Project() {
           <div className="pt-10 pb-10 bg-gray-50 border rounded-lg w-1/3 flex items-center flex-col">
             <img
               src="https://res.cloudinary.com/dpqhebvit/image/upload/v1734627327/dwvbywbq0lpz0pojxxv0.jpg"
-              className="w-auto h-60"
+              className="w-fit h-60 px-6"
             ></img>
 
             <div id="Name" className="text-xl font-bold mt-5 ">
