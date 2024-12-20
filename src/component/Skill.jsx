@@ -31,7 +31,6 @@ export default function Skill() {
               <p className="pt-10  text-[#6e07f4]">Dev Tools</p>
               <p>Github</p>
               <p>Tailwind</p>
-              <p>MUI</p>
             </div>
           </div>
 
